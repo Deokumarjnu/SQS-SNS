@@ -1,5 +1,7 @@
 # Welcome to your CDK TypeScript project
 
+This project is simple sending message to SQS, SNS using aws lambda Lambda.
+
 You should explore the contents of this project. It demonstrates a CDK app with an instance of a stack (`SqsSnsStack`)
 which contains an Amazon SQS queue that is subscribed to an Amazon SNS topic.
 
